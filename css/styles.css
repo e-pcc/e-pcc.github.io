@@ -57,10 +57,32 @@ td {
 
 #pcc-title-splash-image {
   margin-bottom: 10px;
+
+  height: 240px;
 }
 
 #pcc-title-splash {
   margin-bottom: 32px;
+}
+
+#youtube-logo {
+  height: 28px;
+}
+
+#twitter-logo {
+  height: 28px;
+}
+
+#social-links {
+  margin-top: 18px;
+}
+
+.social-div {
+  padding-bottom: 18px;
+}
+
+#contact-us-div {
+  margin-top: 18px;
 }
 
 html {
