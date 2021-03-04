@@ -1,0 +1,13 @@
+DATE: 10 March 2021
+
+SPEAKER: Ambrose Law (Cardiff University)
+
+TITLE: Sum Systems
+
+ABSTRACT: Many fields of mathematics are born from simple, yet, potent
+questions. The study of Sum Systems comes from such; given a natural number n,
+can you find two sets such that by taking every combinations of sums between
+elements of the two sets you get each value 0, 1, 2,..., n uniquely? This talk
+will be an introduction to the field of Sum Systems, some of their inheritance
+properties, and some of the most recent developments in the area - namely; for
+any natural number n, how many possible sum systems correspond to it?
