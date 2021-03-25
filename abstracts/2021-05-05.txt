@@ -1,0 +1,11 @@
+DATE: 5 May 2021
+
+SPEAKER: Alexander Clifton
+
+TITLE: Almost k-covers of hypercubes
+
+ABSTRACT: A classical theorem of Alon and F\"{u}redi states that $n$ affine hyperplanes in $\mathbf{R}^n$ are needed to cover all vertices but one of an $n-$dimensional hypercube. One well-known proof of this result is by the Combinatorial Nullstellensatz. We extend this question to ask how many hyperplanes are needed to cover all vertices at least $k$ times, except for the one that is not covered at all.
+
+Using a Punctured Combinatorial Nullstellensatz developed by Ball and Serra, we show that a minimum of $n+3$ affine hyperplanes are needed for $k=3$. We also develop an analogue of the Lubell-Yamamoto-Meshalkin inequality for subset sums which we use to solve the fractional version of this problem and to provide an asymptotic answer to the integral version for fixed $n$ and $k\to\infty$.
+
+This is joint work with Hao Huang.
