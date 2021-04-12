@@ -4,14 +4,16 @@ SPEAKER: Tássio Naia (https://www.ime.usp.br/~tassio/)
 
 TITLE: Trees and tree-like structures in dense digraphs
 
-ABSTRACT: A spanning structure in a (directed) graph is one obtained by deleting 
-(arcs) edges, but no vertices. In general, no efficient algorithm is known
-which finds a given spanning structure in a graph or directed graph 
-(think travelling salesman problem). It is then is natural to look for 
-sufficient conditions which guarantee the presence of certain classes
-of spanning structures, and indeed many classical results 
-(and longstanding conjectures) have this form.
+ABSTRACT: A spanning structure in a (directed) graph is one obtained by
+deleting edges or arcs (but no vertices). In general, no efficient
+algorithm is known which detects a given spanning structure in an
+arbitrary graph or directed graph (as in the travelling salesman
+problem). Hence it is natural to look for sufficient conditions
+which guarantee the presence of certain spanning structures.
+Indeed, many classical results (and longstanding conjectures)
+have this form.
 
-We discuss some recent advances and open problems in this area, focusing 
-on spanning structures of digraphs in which each vertex has a large number 
-of in- and neighbours. Joint work with Richard Mycroft.
+We discuss some recent advances and open problems in this area,
+focusing on spanning structures of digraphs of high semidegree
+(i.e., in which each vertex has a large number of in- and
+outneighbours). Joint work with Richard Mycroft.
